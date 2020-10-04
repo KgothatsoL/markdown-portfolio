@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* The sun is a star
+* My gym partner is a monkey
+  * Travis
+  * Moss
