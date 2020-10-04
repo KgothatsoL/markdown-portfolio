@@ -1,2 +1,2 @@
-(![Image-of-sunflowers] (https://fineartamerica.com/art/photographs/sunflower))
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
